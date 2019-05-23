@@ -3,7 +3,7 @@
   "version": "2.13.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jumio/mobile-react"
+    "url": "https://github.com/blurrybloop/jumio-mobile-react"
   },
   "keywords": [
     "react-native",
@@ -18,8 +18,5 @@
     "react-native": ">=0.47.1"
   },
   "author": "Jumio Corporation",
-  "license": "ISC",
-  "dependencies": {
-    "react-native": "^0.55.2"
-  }
+  "license": "ISC"
 }
